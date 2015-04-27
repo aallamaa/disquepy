@@ -49,13 +49,11 @@ uptime_in_seconds:1576
 uptime_in_days:0
 hz:10
 config_file:
-
 # Clients
 connected_clients:1
 client_longest_output_list:0
 client_biggest_input_buf:0
 blocked_clients:0
-
 # Memory
 used_memory:457072
 used_memory_human:446.36K
@@ -64,13 +62,10 @@ used_memory_peak:457072
 used_memory_peak_human:446.36K
 mem_fragmentation_ratio:4.05
 mem_allocator:jemalloc-3.6.0
-
 # Jobs
 registered_jobs:3
-
 # Queues
 registered_queues:1
-
 # Persistence
 loading:0
 aof_enabled:0
@@ -80,7 +75,6 @@ aof_last_rewrite_time_sec:-1
 aof_current_rewrite_time_sec:-1
 aof_last_bgrewrite_status:ok
 aof_last_write_status:ok
-
 # Stats
 total_connections_received:4
 total_commands_processed:12
@@ -91,7 +85,6 @@ instantaneous_input_kbps:0.00
 instantaneous_output_kbps:0.00
 rejected_connections:0
 latest_fork_usec:0
-
 # CPU
 used_cpu_sys:6.89
 used_cpu_user:5.02
