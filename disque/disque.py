@@ -1,10 +1,10 @@
 #
-# Copyright (c) 2010, Abdelkader ALLAM <abdelkader.allam at gmail dot com>
+# Copyright (c) 2015, Abdelkader ALLAM <abdelkader.allam at gmail dot com>
 # All rights reserved.
 #
 # This source also contains source code from Disque
 # developped by Salvatore Sanfilippo <antirez at gmail dot com>
-# available at http://github.com/antirez/redis
+# available at http://github.com/antirez/disque
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are met:
