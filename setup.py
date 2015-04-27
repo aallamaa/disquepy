@@ -15,7 +15,7 @@ sdict = {
     'description' : 'Python client for disque',
     'long_description' : 'Python client for Disque, an in-memory, distributed job queue',
     'url': 'http://github.com/aallamaa/disquepy/',
-    'download_url' : 'http://www.xone-tech.com/desir/disque.tgz',
+    'download_url' : 'http://alcove.io/disque.tgz',
     'author' : 'Abdelkader ALLAM',
     'author_email' : 'abdelkader.allam@gmail.com',
     'maintainer' : 'Abdelkader ALLAM',
