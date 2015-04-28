@@ -7,7 +7,7 @@
 @brief Setuptools configuration for disque client
 """
 
-version = '0.1'
+version = '0.11'
 
 sdict = {
     'name' : 'disque',
@@ -15,7 +15,7 @@ sdict = {
     'description' : 'Python client for disque',
     'long_description' : 'Python client for Disque, an in-memory, distributed job queue',
     'url': 'http://github.com/aallamaa/disquepy/',
-    'download_url' : 'http://alcove.io/disque.tgz',
+    'download_url' : 'http://alcove.io/disque-%s.tgz' % version,
     'author' : 'Abdelkader ALLAM',
     'author_email' : 'abdelkader.allam@gmail.com',
     'maintainer' : 'Abdelkader ALLAM',
